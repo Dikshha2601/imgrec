@@ -1,0 +1,12 @@
+.heading {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+body {
+  color: white;
+  background: rgb(255, 139, 139);
+}
+#object_name,
+#object_accuracy {
+  color: blueviolet;
+}
